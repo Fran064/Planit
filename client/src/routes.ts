@@ -1,4 +1,5 @@
 export const paths = {
   home: '/',
-  calendar: '/calendar'
+  calendar: '/calendar',
+  tasks: '/tasks'
 } as const;

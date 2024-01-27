@@ -11,6 +11,9 @@ export const Nav = () => {
         <li>
           <Link to={paths.calendar}>Calendar</Link>
         </li>
+        <li>
+          <Link to={paths.tasks}>Tasks</Link>
+        </li>
       </ul>
     </nav>
   );
