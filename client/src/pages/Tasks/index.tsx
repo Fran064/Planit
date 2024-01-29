@@ -1,7 +1,16 @@
 export const Tasks = () => {
   return (
     <div>
-      <h1>Task Page</h1>
+      <h1
+        style={{
+          textAlign: 'center',
+          color: 'white',
+          padding: 20,
+          fontSize: 40
+        }}
+      >
+        Tasks
+      </h1>
     </div>
   );
 };
